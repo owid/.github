@@ -11,7 +11,7 @@ The goal of our work is to make the knowledge on the big problems accessible and
 
 ## Can I use or reproduce your code or data?
 
-All visualizations, data, and code produced by Our World in Data are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, reproduce, and distribute these in any medium, provided the source and authors are credited.
+All visualizations, data, and articles produced and published by Our World in Data are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). Similarly, all the software and code that we write is completely open, and made available via GitHub under the permissive [MIT license](https://github.com/owid/owid-grapher/blob/master/LICENSE.md).
 
 The data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.
 
